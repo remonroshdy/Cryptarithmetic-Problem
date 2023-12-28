@@ -1,0 +1,16 @@
+D: 7
+E: 8
+F: 0
+C: 5
+G: 3
+A: 1
+B: 6
+
+
+
+
+
+printout in the screen 
+Solutions:
+1657 + 8656 = 10313	{'D': 7, 'E': 8, 'F': 0, 'C': 5, 'G': 3, 'A': 1, 'B': 6}
+Solution written to output_sol.txt
